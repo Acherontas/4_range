@@ -1,0 +1,22 @@
+its create a range of four numbers in a rows by
+asking the first one
+then it sums the first with the last 
+and the second with the third
+the result in some cases are the same 
+
+and example output 
+
+//
+
+enter decimal precision : 12
+precision is 12
+
+enter first number : 3278914
+
+@i 0 value is 3278914
+@i 1 value is 3278915
+@i 2 value is 3278916
+@i 3 value is 3278917
+
+sum of number @ index 0 + 3 ::== 6557831
+sum of number @ index 1 + 4 ::== 6557831
